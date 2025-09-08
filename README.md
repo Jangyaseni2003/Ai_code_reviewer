@@ -58,19 +58,4 @@ Built with *Node.js, **Express, **OpenAI API, and **React.js* (Tailwind CSS for 
 
 *juju*  
 
-> "Code is like humor. When you have to explain it, it’s bad — but when it works, it’s magic."  
 
----
-
-## Repository Info  
-
-- Stars: 0  
-- Watchers: 0  
-- Forks: 0  
-
-### Languages
-- JavaScript (86.1%)  
-- HTML (7.2%)  
-- CSS (2.6%)  
-- PowerShell (2.5%)  
-- Batchfile (1.6%)
